@@ -1,0 +1,1 @@
+# Data modeling for DynamoDB tables
